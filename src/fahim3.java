@@ -13,6 +13,7 @@ public class fahim3 {
             
 {
     System.out.println("Kucing");
+    System.out.println("anjing");
 
     
     
